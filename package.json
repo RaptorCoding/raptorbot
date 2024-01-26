@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "name": "raptorbot",
+  "version": "1.0.0",
+  "description": "A simple moderation bot",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaptorCoding/raptorbot.git"
+  },
+  "keywords": [
+    "moderation",
+    "bot"
+  ],
+  "author": "raptor__.",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/RaptorCoding/raptorbot/issues"
+  },
+  "homepage": "https://github.com/RaptorCoding/raptorbot#readme"
+}
