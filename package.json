@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
   },
   "name": "raptorbot",
   "version": "1.0.0",
   "description": "A simple moderation bot",
   "main": "main.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
